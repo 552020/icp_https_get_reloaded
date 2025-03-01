@@ -1,0 +1,3 @@
+(
+  "First entry: #array([#number(#int(+1_737_489_600)), #string(\"10.032\"), #string(\"10.032\"), #string(\"9.920\"), #string(\"9.949\"), #string(\"9.945\"), #string(\"5935.86133106\"), #number(#int(+101))])",
+)
